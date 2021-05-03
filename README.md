@@ -5,9 +5,9 @@
 * 더이상 골치아픈 string key를 몰라도 됩니다.
 
 ## 사용법
-간단한 샘플(Assets/Scenes/SampleScene.unity)이 준비되어 있으며,
-플레이 모드에서 테스트를 진행해주시고, 테스트의 설명은 Scene에 있는 GameObject를 참고 해주세요.  
-테스트 코드는 Assets/Scripts/Sample/Test.cs 에 작성 되어 있습니다.
+간단한 샘플(Assets/Scenes/SampleScene.unity)이 준비되어 있으며,  
+플레이 모드에서 테스트를 진행해주시고, 테스트의 설명은 Scene에 있는 GameObject를 참고 해주세요.   
+테스트 코드는 Assets/Scripts/Sample/Test.cs 에 작성 되어 있습니다.  
 
 ```C#
 // 저장, 불러올 데이터 작성
