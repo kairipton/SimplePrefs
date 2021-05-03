@@ -15,10 +15,10 @@ namespace SPrefs
 {
   public class SomeData : Internal.SPrefsBase<SampleData>
   {
-    public int		level;
-		public string	desc;
-		public bool		isNice;
-		public float	progress;
+    public int level;
+    public string desc;
+    public bool isNice;
+    public float progress;
   }
 }
 
