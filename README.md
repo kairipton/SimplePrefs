@@ -6,7 +6,7 @@
 
 ## 사용법
 간단한 샘플이 준비되어 있으며(Assets/Scenes/SampleScene.unity)  
-플레이 모드에서 테스트를 진행해주시고, 테스트에 대한 자세한 설명은 Scene 내부에 있는 Test GameObject를 참고 해주세요.  
+플레이 모드에서 테스트를 진행해주시고, 테스트의 설명은 Scene에 있는 Test GameObject를 참고 해주세요.  
 테스트 코드는 Assets/Scripts/Sample/Test.cs 에 작성 되어 있습니다.
 
 ```C#
